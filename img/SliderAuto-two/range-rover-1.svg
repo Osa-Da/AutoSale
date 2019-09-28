@@ -1,0 +1,454 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M154.695 65.1579C150.725 63.4013 146.646 61.8999 142.485 60.6631C137.029 58.975 131.211 57.623 125.081 56.6363C120.811 55.9448 116.513 55.4335 112.199 55.1038C108.172 54.7925 104.091 54.6099 99.9118 54.6099C96.1713 54.6099 92.5086 54.7396 88.8989 55C87.7295 55.0778 86.5861 55.1805 85.4178 55.2853C82.3787 55.5447 79.3656 55.9079 76.4303 56.3488C72.9717 56.8815 69.5322 57.5314 66.1177 58.2974C64.3518 58.7125 62.6377 59.1545 60.9236 59.5954C54.4553 61.3614 48.4799 63.5445 43.0772 66.0897C25.2049 74.4567 13.9046 86.7178 13.9046 100.356C13.9046 113.966 25.2049 126.229 43.0762 134.618C48.4789 137.137 54.4532 139.319 60.9226 141.085C62.6366 141.554 64.3507 141.969 66.1167 142.384C69.4681 143.137 72.8973 143.786 76.4292 144.333C79.3645 144.775 82.3777 145.137 85.4167 145.423C86.5861 145.527 87.7285 145.606 88.8978 145.683C92.5076 145.942 96.1702 146.073 99.9107 146.073C104.09 146.073 108.171 145.891 112.198 145.606C116.612 145.269 120.924 144.749 125.08 144.047C131.21 143.061 137.029 141.709 142.484 140.046C146.823 138.723 150.9 137.215 154.694 135.527C173.734 127.138 185.89 114.462 185.89 100.357C185.891 86.2239 173.734 73.5488 154.695 65.1579ZM154.695 132.851C150.928 134.565 146.824 136.098 142.485 137.422C137.056 139.112 131.211 140.486 125.081 141.5C120.811 142.193 116.513 142.705 112.199 143.034C108.172 143.346 104.091 143.503 99.9118 143.503C96.1713 143.503 92.5086 143.372 88.8989 143.137C87.7295 143.061 86.5602 142.955 85.4178 142.852C82.4125 142.571 79.4155 142.207 76.4303 141.761C72.9712 141.232 69.5316 140.582 66.1177 139.813C64.3518 139.398 62.6117 138.955 60.9236 138.489C54.4294 136.696 48.428 134.489 43.0772 131.891C26.7125 124.02 16.4518 112.773 16.4518 100.356C16.4518 87.9131 26.7125 76.6917 43.0772 68.7946C48.428 66.2225 54.4294 63.9886 60.9236 62.1967C62.6432 61.7182 64.3752 61.2853 66.1177 60.8986C69.5288 60.109 72.9688 59.4504 76.4303 58.9241C79.3656 58.4832 82.3787 58.12 85.4178 57.8336C86.5612 57.7309 87.7295 57.6521 88.8989 57.5483C92.5086 57.3138 96.1713 57.1841 99.9118 57.1841C104.091 57.1841 108.172 57.3397 112.199 57.6521C116.613 57.9903 120.925 58.5091 125.081 59.2105C131.211 60.1972 137.056 61.5741 142.485 63.2633C146.65 64.5295 150.729 66.0649 154.695 67.8598C172.228 75.7827 183.346 87.4203 183.346 100.357C183.346 113.293 172.228 124.928 154.695 132.851Z" fill="#040406"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M99.9097 59.9597C144.406 59.9597 180.701 77.9493 180.701 100.011C180.701 122.051 144.406 140.04 99.9097 140.04C55.3902 140.04 19.0946 122.051 19.0946 100.011C19.0946 77.9493 55.3902 59.9597 99.9097 59.9597Z" fill="#040406"/>
+<rect width="336.176" height="157.712" transform="matrix(0.48 0 0 -0.48 19.1932 138.634)" fill="url(#pattern0)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M131.575 79.4187C130.971 78.5637 130.053 77.9183 128.802 77.4805C127.614 77.0634 126.093 76.8548 124.239 76.834H119.009L113.902 89.4645L110.817 97.0917H115.36C118.548 97.0917 121.195 96.6134 123.343 95.6962C123.655 95.5706 123.946 95.4254 124.238 95.2791C125.946 94.4241 127.302 93.3627 128.324 92.1114C129.532 90.6318 130.51 88.9218 131.305 86.9836C131.97 85.2965 132.345 83.8367 132.387 82.5864C132.428 81.3361 132.158 80.2726 131.575 79.4187ZM67.1274 97.0917H73.3602L75.0276 93.8213H80.7363L80.6741 97.0917H86.0934L87.4059 82.3571L87.906 76.834H81.3827L80.1937 78.5232L71.92 90.2769L67.75 96.1963L67.1274 97.0917ZM125.958 86.5987C125.595 87.5602 125.135 88.4821 124.585 89.3504C123.958 90.2863 123.302 91.0063 122.55 91.5075C121.238 92.4455 119.518 92.8812 117.392 92.8812L122.146 81.1265C123.113 81.1265 123.928 81.2199 124.585 81.3776C125.427 81.5955 126.022 81.94 126.303 82.4702C126.834 83.3469 126.741 84.7217 125.958 86.5987ZM146.293 89.2072L140.205 91.3301L138.953 91.7907L139.642 93.1458L140.205 92.9414L151.076 89.2072V84.7062H138.594V89.2072H146.293ZM65.1809 91.715H60.1154L65.5762 78.3759L66.2019 76.834H60.6374L52.4456 97.0917H63.0549L65.1809 91.715ZM80.1958 86.0664L82.1962 82.9827H82.3218L81.7169 88.8181L80.1958 88.734L78.5294 88.65L80.1958 86.0664ZM89.1034 97.0917H94.4386L98.8152 86.359L100.149 97.0917H105.962L111.071 84.4623L114.156 76.834H108.465L105.692 83.6489L104.359 87.463L102.565 76.833H97.2733L92.3749 88.9841L89.5828 95.8622L89.1034 97.0917Z" fill="#0CAC8F"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M155.437 102.594C154.542 102.112 153.311 101.863 151.729 101.863H144.036L138.597 115.076L135.701 122.121H141.89L144.642 115.472L144.954 122.121H151.978L150.727 113.867C153.311 113.055 155.125 111.368 156.187 108.804C156.854 107.2 157.105 105.886 156.98 104.843C156.833 103.822 156.332 103.073 155.437 102.594V102.594ZM79.3604 104.843C79.3198 104.489 79.2209 104.145 79.0678 103.823C78.8188 103.3 78.4007 102.885 77.8383 102.594C76.9429 102.112 75.6926 101.863 74.1092 101.863H66.4384L58.1014 122.121H64.2917L66.6252 116.431L67.0215 115.472L67.3338 122.121H74.3583L73.1069 113.867C75.7123 113.055 77.526 111.368 78.5885 108.804C78.7763 108.324 78.9433 107.866 79.0678 107.427C79.3604 106.429 79.4632 105.574 79.3604 104.843V104.843ZM100.305 107.929C100.211 106.614 99.9046 105.49 99.3463 104.532C98.7871 103.572 98.04 102.801 97.0865 102.26C96.134 101.719 94.9771 101.427 93.6428 101.427C92.3302 101.427 91.0249 101.696 89.7269 102.239C89.6086 102.302 89.4883 102.344 89.369 102.405C88.4412 102.834 87.5605 103.358 86.7408 103.969C86.5094 104.157 86.2998 104.343 86.0705 104.532C84.9032 105.511 83.8967 106.658 83.0117 107.95C82.1365 109.198 81.4648 110.577 81.0216 112.036C80.8267 112.663 80.678 113.304 80.5765 113.953C80.4084 115.141 80.4229 116.266 80.6408 117.349C80.755 117.848 80.8888 118.329 81.0808 118.766C81.4756 119.717 82.1002 120.555 82.8986 121.206C84.0399 122.143 85.4656 122.621 87.133 122.621C87.6538 122.621 88.1706 122.58 88.6831 122.498C89.6154 122.325 90.5229 122.038 91.385 121.644C91.6834 121.515 91.9741 121.369 92.2555 121.206C94.0319 120.234 95.6011 118.924 96.8748 117.349C98.2257 115.723 99.1876 113.953 99.778 112.036C100.214 110.616 100.382 109.242 100.305 107.929V107.929ZM150.164 108.909C149.747 109.95 149.143 110.616 148.393 110.909C148.12 111.012 147.83 111.062 147.538 111.056H146.456L148.101 107.054H149.394C149.852 107.054 150.144 107.242 150.27 107.595C150.413 107.972 150.373 108.407 150.164 108.909ZM45.1991 109.891L46.6569 109.38L52.54 107.309L51.85 105.951L46.6569 107.744L40.4159 109.891V114.391H52.898V109.891H45.1991ZM72.5653 108.909C72.1285 109.95 71.5443 110.616 70.7942 110.909C70.514 111.012 70.217 111.062 69.9185 111.056H68.8352L70.4819 107.054H71.7944C72.2323 107.054 72.5238 107.242 72.6701 107.595C72.8154 107.972 72.7739 108.407 72.5653 108.909V108.909ZM94.7208 111.881C94.2731 113.408 93.4111 114.78 92.2306 115.846C91.7876 116.239 91.3383 116.574 90.9098 116.817C90.1669 117.24 89.4022 117.451 88.6758 117.451C87.9485 117.451 87.3509 117.24 86.8559 116.846C86.54 116.558 86.2868 116.207 86.112 115.817C85.5745 114.725 85.5569 113.424 86.0321 111.881C86.0985 111.637 86.1628 111.396 86.2593 111.153C86.7646 109.911 87.5314 108.85 88.5233 107.913C88.9402 107.538 89.3919 107.204 89.8722 106.914C90.6151 106.49 91.3497 106.279 92.1071 106.279C93.2568 106.279 94.1325 106.824 94.6668 107.882C95.2043 108.972 95.223 110.305 94.7208 111.881V111.881ZM123.687 101.863H116.996L111.954 109.366L110.162 112.346L109.139 114.034H109.016L110.14 109.242L110.162 109.116L111.327 101.863H104.534L102.865 122.121H108.68L110.162 120.12L120.497 106.177L123.687 101.863V101.863ZM127.691 114.529L132.672 114.571L134.863 109.4L129.86 109.359L130.668 107.426L135.588 107.468L136.213 107.473L138.531 101.947L135.633 101.926L126.817 101.851L121.566 114.293L118.311 122.039L121.499 122.065L130.125 122.138L132.423 116.697L126.796 116.649L127.691 114.529V114.529Z" fill="#0CAC8F"/>
+<rect width="16.6013" height="1.03735" transform="matrix(0.2434 0 0 -0.2971 36.8736 90.7654)" fill="url(#pattern1)"/>
+<rect width="32.165" height="1.03735" transform="matrix(0.2417 0 0 -0.2971 35.3815 90.5154)" fill="url(#pattern2)"/>
+<rect width="41.5032" height="1.03733" transform="matrix(0.2413 0 0 -0.2971 34.3854 90.2664)" fill="url(#pattern3)"/>
+<rect width="49.8039" height="1.03733" transform="matrix(0.241 0 0 -0.2971 33.8874 90.0173)" fill="url(#pattern4)"/>
+<rect width="56.0294" height="1.03774" transform="matrix(0.2409 0 0 -0.2971 33.3894 89.7683)" fill="url(#pattern5)"/>
+<rect width="63.2925" height="1.03776" transform="matrix(0.2408 0 0 -0.2971 32.8913 89.5186)" fill="url(#pattern6)"/>
+<rect width="68.4803" height="1.03774" transform="matrix(0.2407 0 0 -0.2971 32.6423 89.2695)" fill="url(#pattern7)"/>
+<rect width="74.706" height="1.03771" transform="matrix(0.2406 0 0 -0.2971 32.1453 89.0205)" fill="url(#pattern8)"/>
+<rect width="78.8563" height="1.03774" transform="matrix(0.2406 0 0 -0.2971 32.1453 88.7712)" fill="url(#pattern9)"/>
+<rect width="84.044" height="1.03774" transform="matrix(0.2406 0 0 -0.2971 31.8963 88.5215)" fill="url(#pattern10)"/>
+<rect width="89.2318" height="1.03735" transform="matrix(0.2405 0 0 -0.2971 31.6483 88.2722)" fill="url(#pattern11)"/>
+<rect width="93.3823" height="1.03771" transform="matrix(0.2405 0 0 -0.2971 31.6483 88.0232)" fill="url(#pattern12)"/>
+<rect width="99.6079" height="1.03735" transform="matrix(0.2404 0 0 -0.2971 31.3983 87.7742)" fill="url(#pattern13)"/>
+<rect width="104.796" height="1.03733" transform="matrix(0.2404 0 0 -0.2971 31.3983 87.5249)" fill="url(#pattern14)"/>
+<rect width="111.021" height="1.03733" transform="matrix(0.2404 0 0 -0.2971 31.1503 87.2759)" fill="url(#pattern15)"/>
+<rect width="117.247" height="1.03771" transform="matrix(0.2404 0 0 -0.2971 31.1503 87.0264)" fill="url(#pattern16)"/>
+<rect width="122.435" height="1.03776" transform="matrix(0.2403 0 0 -0.2971 31.1503 86.7771)" fill="url(#pattern17)"/>
+<rect width="128.66" height="1.03774" transform="matrix(0.2403 0 0 -0.2971 31.1503 86.5281)" fill="url(#pattern18)"/>
+<rect width="135.923" height="1.03774" transform="matrix(0.2403 0 0 -0.2971 31.1503 86.2791)" fill="url(#pattern19)"/>
+<rect width="143.186" height="1.03774" transform="matrix(0.2403 0 0 -0.2971 31.1503 86.03)" fill="url(#pattern20)"/>
+<rect width="149.412" height="1.03774" transform="matrix(0.2402 0 0 -0.2971 31.1503 85.781)" fill="url(#pattern21)"/>
+<rect width="157.712" height="1.03774" transform="matrix(0.2402 0 0 -0.2971 31.1503 85.531)" fill="url(#pattern22)"/>
+<rect width="166.013" height="1.03774" transform="matrix(0.2402 0 0 -0.2971 31.1503 85.282)" fill="url(#pattern23)"/>
+<rect width="174.314" height="1.03733" transform="matrix(0.2402 0 0 -0.2971 31.1503 85.033)" fill="url(#pattern24)"/>
+<rect width="183.652" height="1.03771" transform="matrix(0.2402 0 0 -0.2971 31.1503 84.783)" fill="url(#pattern25)"/>
+<rect width="194.028" height="1.03735" transform="matrix(0.2402 0 0 -0.2971 31.1503 84.5347)" fill="url(#pattern26)"/>
+<rect width="203.366" height="1.03774" transform="matrix(0.2401 0 0 -0.2971 31.3983 84.2849)" fill="url(#pattern27)"/>
+<rect width="214.78" height="1.03774" transform="matrix(0.2401 0 0 -0.2971 31.3983 84.0359)" fill="url(#pattern28)"/>
+<rect width="226.193" height="1.03774" transform="matrix(0.2401 0 0 -0.2971 31.6483 83.7869)" fill="url(#pattern29)"/>
+<rect width="239.681" height="1.03774" transform="matrix(0.2401 0 0 -0.2971 31.8963 83.5378)" fill="url(#pattern30)"/>
+<rect width="253.17" height="1.03771" transform="matrix(0.2401 0 0 -0.2971 31.8963 83.2888)" fill="url(#pattern31)"/>
+<rect width="271.846" height="1.03771" transform="matrix(0.2401 0 0 -0.2971 32.1453 83.0388)" fill="url(#pattern32)"/>
+<rect width="290.523" height="1.03771" transform="matrix(0.2401 0 0 -0.2971 32.3943 82.7898)" fill="url(#pattern33)"/>
+<rect width="319.575" height="1.03774" transform="matrix(0.24 0 0 -0.2971 32.6423 82.5398)" fill="url(#pattern34)"/>
+<rect width="347.59" height="1.03774" transform="matrix(0.24 0 0 -0.2971 32.8913 82.2908)" fill="url(#pattern35)"/>
+<rect width="346.552" height="2.0753" transform="matrix(0.24 0 0 -0.2687 33.1404 82.0415)" fill="url(#pattern36)"/>
+<rect width="345.514" height="1.03774" transform="matrix(0.24 0 0 -0.2971 33.3894 81.5437)" fill="url(#pattern37)"/>
+<rect width="344.477" height="1.03753" transform="matrix(0.24 0 0 -0.2971 33.6384 81.2947)" fill="url(#pattern38)"/>
+<rect width="343.439" height="1.03751" transform="matrix(0.24 0 0 -0.2971 33.8874 81.0454)" fill="url(#pattern39)"/>
+<rect width="342.402" height="1.03753" transform="matrix(0.24 0 0 -0.2971 34.1364 80.7966)" fill="url(#pattern40)"/>
+<rect width="341.364" height="1.03774" transform="matrix(0.24 0 0 -0.2971 34.3854 80.5476)" fill="url(#pattern41)"/>
+<rect width="340.327" height="1.03756" transform="matrix(0.24 0 0 -0.2971 34.6345 80.2986)" fill="url(#pattern42)"/>
+<rect width="339.289" height="1.03774" transform="matrix(0.24 0 0 -0.2971 34.8835 80.0486)" fill="url(#pattern43)"/>
+<rect width="338.251" height="1.03753" transform="matrix(0.24 0 0 -0.2971 35.1325 79.7996)" fill="url(#pattern44)"/>
+<rect width="337.214" height="1.03774" transform="matrix(0.24 0 0 -0.2971 35.3815 79.5493)" fill="url(#pattern45)"/>
+<rect width="336.176" height="1.03774" transform="matrix(0.24 0 0 -0.2971 35.6306 79.3003)" fill="url(#pattern46)"/>
+<rect width="334.101" height="1.03753" transform="matrix(0.24 0 0 -0.2971 36.1275 79.0513)" fill="url(#pattern47)"/>
+<rect width="333.063" height="1.03771" transform="matrix(0.24 0 0 -0.2971 36.3766 78.8022)" fill="url(#pattern48)"/>
+<rect width="332.026" height="1.03756" transform="matrix(0.24 0 0 -0.2971 36.6245 78.5522)" fill="url(#pattern49)"/>
+<rect width="330.988" height="1.03753" transform="matrix(0.24 0 0 -0.2971 36.8736 78.3042)" fill="url(#pattern50)"/>
+<rect width="328.914" height="1.03751" transform="matrix(0.24 0 0 -0.2971 37.3716 78.0552)" fill="url(#pattern51)"/>
+<rect width="327.876" height="1.03753" transform="matrix(0.24 0 0 -0.2971 37.6206 77.8052)" fill="url(#pattern52)"/>
+<rect width="325.801" height="1.03774" transform="matrix(0.24 0 0 -0.2971 38.1187 77.5562)" fill="url(#pattern53)"/>
+<rect width="324.763" height="1.03774" transform="matrix(0.24 0 0 -0.2971 38.3666 77.3074)" fill="url(#pattern54)"/>
+<rect width="322.688" height="1.03753" transform="matrix(0.24 0 0 -0.2971 38.8657 77.0583)" fill="url(#pattern55)"/>
+<rect width="321.65" height="1.03774" transform="matrix(0.24 0 0 -0.2971 39.1137 76.8081)" fill="url(#pattern56)"/>
+<rect width="319.575" height="1.03774" transform="matrix(0.24 0 0 -0.2971 39.6117 76.5591)" fill="url(#pattern57)"/>
+<rect width="317.5" height="1.03756" transform="matrix(0.24 0 0 -0.2971 40.1087 76.3101)" fill="url(#pattern58)"/>
+<rect width="315.425" height="1.03771" transform="matrix(0.24 0 0 -0.2971 40.6068 76.061)" fill="url(#pattern59)"/>
+<rect width="313.349" height="1.03751" transform="matrix(0.24 0 0 -0.2971 41.1048 75.8123)" fill="url(#pattern60)"/>
+<rect width="311.274" height="1.03774" transform="matrix(0.24 0 0 -0.2971 41.6018 75.562)" fill="url(#pattern61)"/>
+<rect width="309.199" height="1.03735" transform="matrix(0.24 0 0 -0.2971 42.0999 75.3127)" fill="url(#pattern62)"/>
+<rect width="307.124" height="1.03751" transform="matrix(0.24 0 0 -0.2971 42.5979 75.064)" fill="url(#pattern63)"/>
+<rect width="305.049" height="1.03771" transform="matrix(0.24 0 0 -0.2971 43.0959 74.8149)" fill="url(#pattern64)"/>
+<rect width="302.974" height="1.03774" transform="matrix(0.24 0 0 -0.2971 43.594 74.5659)" fill="url(#pattern65)"/>
+<rect width="299.861" height="1.03753" transform="matrix(0.24 0 0 -0.2971 44.091 74.3157)" fill="url(#pattern66)"/>
+<rect width="297.786" height="1.03771" transform="matrix(0.24 0 0 -0.2971 44.589 74.0667)" fill="url(#pattern67)"/>
+<rect width="294.673" height="1.03771" transform="matrix(0.2401 0 0 -0.2971 45.335 73.8176)" fill="url(#pattern68)"/>
+<rect width="292.598" height="1.03756" transform="matrix(0.2401 0 0 -0.2971 45.8331 73.5688)" fill="url(#pattern69)"/>
+<rect width="290.523" height="1.03735" transform="matrix(0.2401 0 0 -0.2971 46.3311 73.3198)" fill="url(#pattern70)"/>
+<rect width="287.41" height="1.03753" transform="matrix(0.2401 0 0 -0.2971 47.0782 73.0708)" fill="url(#pattern71)"/>
+<rect width="285.335" height="1.03756" transform="matrix(0.2401 0 0 -0.2971 47.5752 72.8206)" fill="url(#pattern72)"/>
+<rect width="283.26" height="1.03735" transform="matrix(0.2401 0 0 -0.2971 48.0722 72.5715)" fill="url(#pattern73)"/>
+<rect width="280.147" height="1.03753" transform="matrix(0.2401 0 0 -0.2971 48.8192 72.3228)" fill="url(#pattern74)"/>
+<rect width="277.034" height="1.03774" transform="matrix(0.2401 0 0 -0.2971 49.5663 72.0735)" fill="url(#pattern75)"/>
+<rect width="274.959" height="1.03771" transform="matrix(0.2401 0 0 -0.2971 50.0634 71.8247)" fill="url(#pattern76)"/>
+<rect width="271.846" height="1.03753" transform="matrix(0.2401 0 0 -0.2971 50.8104 71.5745)" fill="url(#pattern77)"/>
+<rect width="269.771" height="1.03774" transform="matrix(0.2401 0 0 -0.2971 51.3084 71.3254)" fill="url(#pattern78)"/>
+<rect width="265.621" height="1.03771" transform="matrix(0.2401 0 0 -0.2971 52.3044 71.0764)" fill="url(#pattern79)"/>
+<rect width="262.508" height="1.03753" transform="matrix(0.2401 0 0 -0.2971 53.0494 70.8274)" fill="url(#pattern80)"/>
+<rect width="259.395" height="1.03735" transform="matrix(0.2401 0 0 -0.2971 53.7966 70.5784)" fill="url(#pattern81)"/>
+<rect width="256.283" height="1.03756" transform="matrix(0.2401 0 0 -0.2971 54.5436 70.3284)" fill="url(#pattern82)"/>
+<rect width="253.17" height="1.03753" transform="matrix(0.2401 0 0 -0.2971 55.2906 70.0793)" fill="url(#pattern83)"/>
+<rect width="250.057" height="1.03771" transform="matrix(0.2401 0 0 -0.2971 56.0367 69.8293)" fill="url(#pattern84)"/>
+<rect width="246.944" height="1.03751" transform="matrix(0.2401 0 0 -0.2971 56.7837 69.5803)" fill="url(#pattern85)"/>
+<rect width="243.831" height="1.03774" transform="matrix(0.2401 0 0 -0.2971 57.5298 69.3313)" fill="url(#pattern86)"/>
+<rect width="240.719" height="1.03753" transform="matrix(0.2401 0 0 -0.2971 58.2769 69.0823)" fill="url(#pattern87)"/>
+<rect width="236.569" height="1.03771" transform="matrix(0.2401 0 0 -0.2971 59.2718 68.8333)" fill="url(#pattern88)"/>
+<rect width="232.418" height="1.03774" transform="matrix(0.2401 0 0 -0.2971 60.2669 68.584)" fill="url(#pattern89)"/>
+<rect width="228.267" height="1.03774" transform="matrix(0.2401 0 0 -0.2971 61.263 68.3352)" fill="url(#pattern90)"/>
+<rect width="224.118" height="1.03753" transform="matrix(0.2401 0 0 -0.2971 62.258 68.0862)" fill="url(#pattern91)"/>
+<rect width="219.967" height="1.03733" transform="matrix(0.2401 0 0 -0.2971 63.2541 67.8372)" fill="url(#pattern92)"/>
+<rect width="215.817" height="1.03753" transform="matrix(0.2401 0 0 -0.2971 64.2491 67.5881)" fill="url(#pattern93)"/>
+<rect width="211.666" height="1.03774" transform="matrix(0.2401 0 0 -0.2971 65.2452 67.3391)" fill="url(#pattern94)"/>
+<rect width="207.516" height="1.03733" transform="matrix(0.2401 0 0 -0.2971 66.2402 67.0889)" fill="url(#pattern95)"/>
+<rect width="202.328" height="1.03753" transform="matrix(0.2401 0 0 -0.2971 67.4843 66.8401)" fill="url(#pattern96)"/>
+<rect width="196.103" height="1.03774" transform="matrix(0.2402 0 0 -0.2971 68.9784 66.5911)" fill="url(#pattern97)"/>
+<rect width="190.915" height="1.03753" transform="matrix(0.2402 0 0 -0.2971 70.2225 66.3411)" fill="url(#pattern98)"/>
+<rect width="185.727" height="1.03751" transform="matrix(0.2402 0 0 -0.2971 71.4665 66.0918)" fill="url(#pattern99)"/>
+<rect width="180.539" height="1.03753" transform="matrix(0.2402 0 0 -0.2971 72.7116 65.8428)" fill="url(#pattern100)"/>
+<rect width="174.314" height="1.03774" transform="matrix(0.2402 0 0 -0.2971 74.2037 65.5938)" fill="url(#pattern101)"/>
+<rect width="167.051" height="1.03774" transform="matrix(0.2402 0 0 -0.2971 75.9468 65.3438)" fill="url(#pattern102)"/>
+<rect width="158.75" height="1.03774" transform="matrix(0.2402 0 0 -0.2971 77.9369 65.0947)" fill="url(#pattern103)"/>
+<rect width="151.487" height="1.03753" transform="matrix(0.2402 0 0 -0.2971 79.679 64.8459)" fill="url(#pattern104)"/>
+<rect width="143.186" height="1.03756" transform="matrix(0.2403 0 0 -0.2971 81.6701 64.5967)" fill="url(#pattern105)"/>
+<rect width="128.66" height="1.03735" transform="matrix(0.2403 0 0 -0.2971 84.4072 64.3477)" fill="url(#pattern106)"/>
+<rect width="104.796" height="1.03754" transform="matrix(0.2404 0 0 -0.2971 87.3944 64.0977)" fill="url(#pattern107)"/>
+<rect width="74.7058" height="1.03772" transform="matrix(0.2406 0 0 -0.2971 90.6296 63.8486)" fill="url(#pattern108)"/>
+<rect width="174.314" height="46.6911" transform="matrix(0.48 0 0 -0.48 50.3214 99.0613)" fill="url(#pattern109)"/>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0"/>
+</pattern>
+<pattern id="pattern1" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image1"/>
+</pattern>
+<pattern id="pattern2" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image2"/>
+</pattern>
+<pattern id="pattern3" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image2"/>
+</pattern>
+<pattern id="pattern4" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image3"/>
+</pattern>
+<pattern id="pattern5" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image3"/>
+</pattern>
+<pattern id="pattern6" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image3"/>
+</pattern>
+<pattern id="pattern7" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image3"/>
+</pattern>
+<pattern id="pattern8" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image3"/>
+</pattern>
+<pattern id="pattern9" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image3"/>
+</pattern>
+<pattern id="pattern10" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image3"/>
+</pattern>
+<pattern id="pattern11" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image3"/>
+</pattern>
+<pattern id="pattern12" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image3"/>
+</pattern>
+<pattern id="pattern13" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image3"/>
+</pattern>
+<pattern id="pattern14" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image3"/>
+</pattern>
+<pattern id="pattern15" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern16" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern17" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern18" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern19" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern20" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern21" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern22" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern23" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern24" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern25" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern26" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern27" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern28" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern29" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern30" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern31" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern32" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern33" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern34" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern35" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern36" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern37" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern38" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern39" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern40" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern41" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern42" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern43" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern44" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern45" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern46" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern47" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern48" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern49" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern50" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern51" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern52" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern53" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern54" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern55" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern56" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern57" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern58" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern59" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern60" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern61" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern62" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern63" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern64" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern65" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern66" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern67" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern68" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern69" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern70" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern71" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern72" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern73" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern74" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern75" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern76" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern77" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern78" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern79" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern80" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern81" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern82" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern83" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern84" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern85" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern86" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern87" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern88" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern89" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern90" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern91" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern92" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern93" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern94" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern95" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern96" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern97" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern98" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern99" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern100" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern101" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern102" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern103" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern104" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern105" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern106" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern107" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image3"/>
+</pattern>
+<pattern id="pattern108" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image3"/>
+</pattern>
+<pattern id="pattern109" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image5"/>
+</pattern>
+<image id="image0" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEAlgCWAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA"/>
+<image id="image1" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEBKAEoAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA"/>
+<image id="image2" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEBKgEqAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA"/>
+<image id="image3" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEBKwErAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA"/>
+<image id="image4" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEBLAEsAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA"/>
+<image id="image5" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKsAAAAwCAYAAABuSYqZAAAACXBIWXMAABcRAAAXEQHKJvM/AAAA"/>
+</defs>
+</svg>
