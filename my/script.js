@@ -18,7 +18,6 @@ function menuBurgW() {
 
 function menuBurg()  {
     document.getElementById("menu-buttonShow").style.backgroundColor = "black";
-    document.getElementById("menu-buttonShow").style.position = "absolute";
     document.getElementById("menu-buttonShow").style.boxShadow = "none"; 
    // document.getElementById("menu-buttonShow").style.display = "none"; 
     document.getElementById("headerBlock").style.display = "block";  
@@ -31,7 +30,6 @@ function menuBurg()  {
 function menuBurgHidden()  {
     document.getElementById("menu-buttonShow").style.boxShadow = " 0px 0px 15px #0CAC8F"; 
     document.getElementById("menu-buttonShow").style.backgroundColor = "white";
-    document.getElementById("menu-buttonShow").style.position = "absolute";
     document.getElementById("menu-buttonShow").style.height = "100px"; 
     document.getElementById("headerBlock").style.display = "none";
     document.getElementById("menu-buttonHide").style.display = "none";   
